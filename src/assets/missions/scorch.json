@@ -1,0 +1,74 @@
+{
+  "name": "Scorch",
+  "opposition": "Leons",
+  "missions": [
+    {
+      "order": 1,
+      "name": "Stop the Railroad Construction",
+      "parts": [
+        "Winged",
+        "Knight",
+        "Claymore",
+        "Horseleg"
+      ]
+    },
+    {
+      "order": 2,
+      "faction": "Minos",
+      "name": "Breakthrough in Sorrowful Wasteland",
+      "parts": [
+        "Box",
+        "Claw",
+        "C-Leg",
+        "W-Leg",
+        "Humanoid"
+      ]
+    },
+    {
+      "order": 2,
+      "faction": "Tramplers",
+      "name": "Shedding Bloody Tears",
+      "parts": [
+        "Box",
+        "Claw",
+        "C-Leg",
+        "W-Leg",
+        "Humanoid"
+      ]
+    },
+    {
+      "order": 3,
+      "name": "The Strongest But Worst Weapon",
+      "parts": [
+        "Shotgun"
+      ]
+    },
+    {
+      "order": 4,
+      "faction": "Minos",
+      "name": "A Hunter In the Wilderness",
+      "parts": []
+    },
+    {
+      "order": 4,
+      "faction": "Trampler",
+      "name": "Lost in the Plains",
+      "parts": []
+    },
+    {
+      "order": 5,
+      "name": "Breaking Out of the Shrinking Net",
+      "parts": []
+    },
+    {
+      "order": 6,
+      "name": "The Battle of Scorch Plains",
+      "parts": [
+        "Taskbody",
+        "Cyclops",
+        "Railgun"
+      ],
+      "notes": "Railgun is from Andras only."
+    }
+  ]
+}

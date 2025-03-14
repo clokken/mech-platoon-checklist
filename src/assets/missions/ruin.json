@@ -1,0 +1,69 @@
+{
+  "name": "Ruin",
+  "opposition": "Barbiel",
+  "missions": [
+    {
+      "order": 1,
+      "name": "Hit and Run",
+      "parts": [
+        "Worm",
+        "Shield",
+        "Missile",
+        "W-Leg",
+        "H-Tank"
+      ]
+    },
+    {
+      "order": 2,
+      "name": "Exterminator Call",
+      "parts": []
+    },
+    {
+      "order": 3,
+      "name": "Container Containment",
+      "parts": [
+        "Knight",
+        "Bit",
+        "L-Leg",
+        "M-Car",
+        "Dualgun"
+      ],
+      "notes": "This is the HARD way to get the Dualgun and the Vepar isn't really worth it. The easy way is to salvage Vepars on Ravine, mission 4 as Tramplers."
+    },
+    {
+      "order": 4,
+      "name": "Barbiel's Retaliation",
+      "parts": []
+    },
+    {
+      "order": 5,
+      "name": "Chance Arrival",
+      "parts": [
+        "Scorpio",
+        "Claw"
+      ]
+    },
+    {
+      "order": 6,
+      "name": "Escape from Old Subcenter",
+      "parts": [
+        "Claw",
+        "Humanoid"
+      ]
+    },
+    {
+      "order": 7,
+      "name": "Time For Revenge",
+      "parts": []
+    },
+    {
+      "order": 8,
+      "name": "The Capital of Ruins",
+      "parts": [
+        "Tower",
+        "Hulkarm"
+      ],
+      "notes": "Tower and Hulkarm are from Ronwes only."
+    }
+  ]
+}

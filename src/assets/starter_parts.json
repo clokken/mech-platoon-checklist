@@ -1,0 +1,21 @@
+{
+  "*": [
+    "Solid",
+    "Grenade",
+    "Pyramid",
+    "T-Armor",
+    "Tank",
+    "Armedcar"
+  ],
+  "Leons": [
+    "Shotgun",
+    "Horseleg"
+  ],
+  "Minos": [
+    "Cannon"
+  ],
+  "Tramplers": [
+    "Gatling",
+    "Bike"
+  ]
+}

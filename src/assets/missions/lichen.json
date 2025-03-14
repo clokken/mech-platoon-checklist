@@ -1,0 +1,52 @@
+{
+  "name": "Lichen",
+  "opposition": "Tramplers",
+  "missions": [
+    {
+      "order": 1,
+      "name": "The Spy In Stagnant Forest",
+      "parts": [
+        "Shell",
+        "Hover",
+        "Bike"
+      ]
+    },
+    {
+      "order": 2,
+      "name": "Onlooker's Waterfall",
+      "parts": [
+        "Gatling",
+        "Kill",
+        "Crossbow"
+      ]
+    },
+    {
+      "order": 3,
+      "name": "The Hunter and the Pursued",
+      "parts": [
+        "Jammer",
+        "Drumpod",
+        "Box",
+        "Tricycle"
+      ]
+    },
+    {
+      "order": 4,
+      "name": "Ebb Tide",
+      "parts": [
+        "Cyclops",
+        "Ball"
+      ]
+    },
+    {
+      "order": 5,
+      "name": "Powerless Brave Men",
+      "parts": []
+    },
+    {
+      "order": 6,
+      "name": "The Battle of Lake Lichen",
+      "parts": "*"
+    }
+  ]
+}

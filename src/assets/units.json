@@ -1,0 +1,210 @@
+[
+  {
+    "name": "Abyss 1",
+    "parts": ["Grenade", "T-Armor", "Armedcar"]
+  },
+  {
+    "name": "Abyss 2",
+    "parts": ["Grenade", "T-Armor", "Tank"]
+  },
+  {
+    "name": "Abyss 3",
+    "parts": ["Grenade", "T-Armor", "H-Tank"]
+  },
+  {
+    "name": "Agares 1",
+    "parts": ["Hulkbody", "Armedcar"]
+  },
+  {
+    "name": "Agares 2",
+    "parts": ["Hulkbody", "Tank"]
+  },
+  {
+    "name": "Agares 3",
+    "parts": ["Hulkbody", "H-Tank"]
+  },
+  {
+    "name": "Agiel 1",
+    "parts": ["Gatling", "Box", "Bike"]
+  },
+  {
+    "name": "Agiel 2",
+    "parts": ["Gatling", "Box", "Tricycle"]
+  },
+  {
+    "name": "Andras",
+    "parts": ["Railgun", "Shell", "C-Leg"]
+  },
+  {
+    "name": "Azazel",
+    "parts": ["Shotgun", "T-Armor", "Horseleg"]
+  },
+  {
+    "name": "Baal",
+    "parts": ["Cyclops", "Horseleg"]
+  },
+  {
+    "name": "Babel 1",
+    "parts": ["Kill", "Bike"]
+  },
+  {
+    "name": "Babel 2",
+    "parts": ["Kill", "Tricycle"]
+  },
+  {
+    "name": "Belias",
+    "parts": ["Grenade", "T-Armor", "M-Car"]
+  },
+  {
+    "name": "Belzecue",
+    "parts": ["Ball", "C-Leg"]
+  },
+  {
+    "name": "Botis",
+    "parts": ["Shotgun", "T-Armor", "C-Leg"]
+  },
+  {
+    "name": "Buer",
+    "parts": ["Gatling", "Knight", "Horseleg"]
+  },
+  {
+    "name": "Caim 1",
+    "parts": ["Gatling", "Pyramid", "Bike"]
+  },
+  {
+    "name": "Caim 2",
+    "parts": ["Gatling", "Pyramid", "Tricycle"]
+  },
+  {
+    "name": "Erebus 1",
+    "parts": ["Bit", "Shell", "Hover"]
+  },
+  {
+    "name": "Erebus 2",
+    "parts": ["Bit", "Worm"]
+  },
+  {
+    "name": "Furcas",
+    "parts": ["Gatling", "Knight", "Humanoid"]
+  },
+  {
+    "name": "Gaap 1",
+    "parts": ["Gatling", "Shell", "Hover"]
+  },
+  {
+    "name": "Gaap 2",
+    "parts": ["Gatling", "Worm"]
+  },
+  {
+    "name": "Gog 1",
+    "parts": ["Claw", "Scorpio", "W-Leg"]
+  },
+  {
+    "name": "Gog 2",
+    "parts": ["Claw", "Scorpio", "L-Leg"]
+  },
+  {
+    "name": "Kataris",
+    "parts": ["Crossbow", "Horseleg"]
+  },
+  {
+    "name": "Kiriel 1",
+    "parts": ["Shotgun", "Radar", "Nozzle"]
+  },
+  {
+    "name": "Kiriel 2",
+    "parts": ["Shotgun", "Shield", "Nozzle"]
+  },
+  {
+    "name": "Magog 1",
+    "parts": ["Drumpod", "W-Leg"]
+  },
+  {
+    "name": "Magog 2",
+    "parts": ["Drumpod", "L-Leg"]
+  },
+  {
+    "name": "Malacoda",
+    "parts": ["Shotgun", "Taskbody", "C-Leg"]
+  },
+  {
+    "name": "Marbas",
+    "parts": ["Ball", "Horseleg"]
+  },
+  {
+    "name": "Merizim 1",
+    "parts": ["Missile", "Radar", "Nozzle"]
+  },
+  {
+    "name": "Merizim 2",
+    "parts": ["Missile", "Shield", "Nozzle"]
+  },
+  {
+    "name": "Muriel",
+    "parts": ["Grenade", "T-Armor", "Armedcar"]
+  },
+  {
+    "name": "Nemesis",
+    "parts": ["Crossbow", "Humanoid"]
+  },
+  {
+    "name": "Nergal 1",
+    "parts": ["Claw", "Winged", "L-Leg"]
+  },
+  {
+    "name": "Nergal 2",
+    "parts": ["Claw", "Winged", "W-Leg"]
+  },
+  {
+    "name": "Orias 1",
+    "parts": ["Cannon", "Armedcar"]
+  },
+  {
+    "name": "Orias 2",
+    "parts": ["Cannon", "Tank"]
+  },
+  {
+    "name": "Orias 3",
+    "parts": ["Cannon", "H-Tank"]
+  },
+  {
+    "name": "Ronwe",
+    "parts": ["Hulkarm", "Tower", "Humanoid"]
+  },
+  {
+    "name": "Saraiel",
+    "parts": ["Shotgun", "T-Armor", "M-Car"]
+  },
+  {
+    "name": "Satyr",
+    "parts": ["Claymore", "Knight", "Horseleg"]
+  },
+  {
+    "name": "Shax",
+    "parts": ["Jammer", "Shield", "W-Leg"]
+  },
+  {
+    "name": "Vepar",
+    "parts": ["Dualgun", "T-Armor", "Armedcar"]
+  },
+  {
+    "name": "Zagan",
+    "parts": ["Claymore", "Knight", "Humanoid"]
+  },
+  {
+    "name": "Zaren",
+    "parts": ["Solid", "Pyramid", "Tank"]
+  },
+  {
+    "name": "Zinimar",
+    "parts": ["Cannon", "Nozzle"]
+  },
+  {
+    "name": "Zedex",
+    "parts": ["Claymore", "Taskbody", "Humanoid"]
+  },
+  {
+    "name": "Zoa",
+    "parts": ["Cyclops", "Humanoid"]
+  }
+]

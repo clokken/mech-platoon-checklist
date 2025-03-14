@@ -1,0 +1,68 @@
+{
+  "name": "Ravine",
+  "opposition": "Minos",
+  "missions": [
+    {
+      "order": 1,
+      "name": "First Strike",
+      "parts": [
+        "Hulkbody",
+        "Cannon",
+        "Armedcar"
+      ]
+    },
+    {
+      "order": 2,
+      "faction": "Tramplers",
+      "name": "Escape From the Wormhole",
+      "parts": []
+    },
+    {
+      "order": 2,
+      "faction": "Leons",
+      "name": "Wanderers in Quicksand Forest",
+      "parts": []
+    },
+    {
+      "order": 3,
+      "name": "The Transport Train Ambush",
+      "parts": [
+        "Radar",
+        "Winged",
+        "Claw",
+        "Shotgun",
+        "Missile",
+        "Nozzle",
+        "L-Leg"
+      ]
+    },
+    {
+      "order": 4,
+      "faction": "Tramplers",
+      "name": "The Battle For New Parts",
+      "parts": [
+        "Dualgun"
+      ],
+      "notes": "Dualgun is from Vepar only."
+    },
+    {
+      "order": 4,
+      "faction": "Leons",
+      "name": "Enemy Labor Strike!",
+      "parts": []
+    },
+    {
+      "order": 5,
+      "name": "Minos Counterattack!",
+      "parts": [
+        "Taskbody",
+        "H-Tank"
+      ]
+    },
+    {
+      "order": 6,
+      "name": "Minos Interception!",
+      "parts": "*"
+    }
+  ]
+}
