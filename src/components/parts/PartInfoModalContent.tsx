@@ -5,9 +5,10 @@ import { PARTS } from "../../lib/parts";
 
 type PartInfoModalContentProps = {
   part: string;
+  close: () => void;
 };
 
-export default function PartInfoModalContent({ part }: PartInfoModalContentProps) {
+export default function PartInfoModalContent({ part, close }: PartInfoModalContentProps) {
   const units = UNITS.filter((unit) => unit.parts.includes(part));
 
   const planets = ALL_PLANETS
@@ -28,9 +29,9 @@ export default function PartInfoModalContent({ part }: PartInfoModalContentProps
     .filter((planet) => planet !== null);
 
   return (
-    <div className="flex justify-center items-center w-full h-full overflow-auto">
+    <div className="flex justify-center items-center w-full h-full overflow-auto relative">
       <div
-        className="bg-white rounded shadow px-6 py-4"
+        className="bg-white rounded shadow px-6 py-4 relative"
         onClick={(ev) => ev.stopPropagation()}
       >
         <div className="text-center">
@@ -69,6 +70,15 @@ export default function PartInfoModalContent({ part }: PartInfoModalContentProps
               />
             ))}
           </div>
+        </div>
+
+        <div className="md:hidden absolute top-0 right-0 flex justify-end">
+          <button
+            className="px-2 py-1"
+            onClick={close}
+          >
+            (X)
+          </button>
         </div>
       </div>
     </div>

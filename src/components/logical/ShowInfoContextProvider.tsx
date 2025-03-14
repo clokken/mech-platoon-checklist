@@ -11,6 +11,8 @@ type ShowInfoContextProviderProps = {
 export default function ShowInfoContextProvider({ children }: ShowInfoContextProviderProps) {
   const [currentPart, setCurrentPart] = useState<string>();
 
+  const closeModal = () => setCurrentPart(undefined);
+
   return (
     <ShowInfoContext.Provider value={useMemo(() => ({
       showPart: setCurrentPart,
@@ -18,8 +20,11 @@ export default function ShowInfoContextProvider({ children }: ShowInfoContextPro
     }), [])}>
       {children}
       {currentPart !== undefined && createPortal(
-        <Modal close={() => setCurrentPart(undefined)}>
-          <PartInfoModalContent part={currentPart} />
+        <Modal close={closeModal}>
+          <PartInfoModalContent
+            part={currentPart}
+            close={closeModal}
+          />
         </Modal>,
         document.body,
       )}
