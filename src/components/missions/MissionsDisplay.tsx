@@ -99,6 +99,9 @@ function PlanetMissions({
                 <div>
                   <span className="font-mono">{mission.order + ')'}</span>{' '}
                   <span className="font-semibold">{mission.name}</span>
+                  {mission.faction !== undefined && (
+                    <span className="text-sm text-neutral-500">{' '}({mission.faction} campaign)</span>
+                  )}
                 </div>
 
                 <MissionParts
