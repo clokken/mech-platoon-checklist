@@ -6,7 +6,7 @@ import { STARTER_PARTS } from "../lib/parts";
 import { localStoragePersistenceService } from "../lib/services/persistence-service";
 import ShowInfoContextProvider from "./logical/ShowInfoContextProvider";
 import PartsControls from "./parts/PartsControls";
-import packageJson from '../../package.json';
+import { version } from '../../package.json';
 
 export default function App() {
   const [parts, setParts] = useState<Checklist['parts']>(
@@ -50,7 +50,7 @@ export default function App() {
           />
         </div>
 
-        <div>
+        <div className="md:sticky md:top-6">
           <div className="text-center font-bold text-blue-700 text-lg mb-2.5">INFO</div>
           <div>
             <p>
@@ -72,8 +72,7 @@ export default function App() {
               </a>
             </p>
             <p>
-              Version:{' '}
-              {packageJson.version}
+              Version:{' '}{version}
             </p>
           </div>
         </div>
